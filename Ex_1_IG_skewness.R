@@ -1,10 +1,6 @@
 #### IG skewness example ####
 library(mvtnorm)
 
-
-load("Code_IG-SIS.RData")
-
-
 #### Data input of the two populations and setting the population parameters ####
 
 x1 <- c(1460, 4050, 3570, 2060, 1300, 1390, 1720, 6280, 1360, 7440)
