@@ -2,7 +2,7 @@ library(mvtnorm)
 library(coda)
 library(robustbase)
 
-# Comparison means Gamma
+# Comparison variances Gamma
 Yield1 = c(0.001, 0.003, 0.007, 0.020,
                               0.030, 0.040, 0.041, 0.077,
                               0.100, 0.454, 0.490, 1.020)
